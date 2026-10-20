@@ -1,6 +1,6 @@
-const title = "Attendance : 05";
-const academy = "KISARAGI ACADEMY";
-const subtitle = "Student Information Portal";
+const title = "top 5 anime of all time";
+const academy = "pasta presents";
+const subtitle = "100% factual";
 
 let i = 0;
 
